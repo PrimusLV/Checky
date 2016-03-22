@@ -1,0 +1,25 @@
+---
+Lava alley:
+  start-pos:
+    x: 45
+    "y": 8
+    z: 45
+    level: world
+  finish-block:
+    x: 45
+    "y": 24
+    z: 42
+    level: world
+  pos1:
+    x: 20
+    "y": 7
+    z: 20
+    level: world
+  pos2:
+    x: 60
+    "y": 30
+    z: 60
+    level: world
+  max-checkpoints: 20
+  record: ~
+...

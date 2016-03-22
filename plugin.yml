@@ -1,0 +1,25 @@
+name: Checky
+author: Primus
+version: 0.1
+api: 1.0.0
+main: checky\Checky
+
+commands:
+ gocheck:
+  default: true
+  description: Go to last checkpoint
+  aliases: ['gc', 'goc', 'gcheck', 'gocheckpoint']
+  permission: checky.command.gocheck
+ setcheck:
+  default: true
+  description: Set checkpoint
+  aliases: ['sc', 'setc', 'scheck', 'setcheckpoint']
+  permission: checky.command.setcheck
+ start:
+  default: true
+  description: Start your parkour timing
+  permission: checky.command.start
+ restart:
+  default: true
+  description: Restart parkour
+  permission: checky.command.restart
