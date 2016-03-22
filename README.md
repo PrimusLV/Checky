@@ -1,10 +1,10 @@
 # Checky
 Fully-featured parkour managment system
 
-## Description
+### Description
 Add/Remove and Manage your Parkour arenas like never before. 
 
-## Commands
+### Commands
 ```
 /gocheck (Go to last checkpoint)
 /setcheck (Set checkpoint)
@@ -12,7 +12,7 @@ Add/Remove and Manage your Parkour arenas like never before.
 /restart (Restart your parkour race)
 ```
 
-## Installation
+### Installation
 
 Note: This plugin is still in development stage. It is recommended to not install this plugin yet.
 
